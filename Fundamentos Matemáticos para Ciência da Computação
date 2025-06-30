@@ -1,0 +1,103 @@
+Professor:Nelson José Freitas
+
+🧠 Resumo Completo – Fundamentos Matemáticos para Ciência da Computação (DCE842)
+Essa matéria aborda os conceitos formais e lógicos que permitem entender como os algoritmos, linguagens, estruturas de dados, redes e inteligência artificial funcionam em nível matemático.
+
+📌 1. Lógica Proposicional
+Proposições (verdadeiras ou falsas)
+
+Conectivos lógicos: ¬ (não), ∧ (e), ∨ (ou), → (implica), ↔ (se e somente se)
+
+Tabelas-verdade
+
+Equivalências lógicas (leis de De Morgan, distributiva, associativa, etc.)
+
+Argumentos válidos e tautologias
+
+Inferência lógica (Modus Ponens, Modus Tollens)
+
+📌 2. Lógica de Predicados (ou Lógica Quantificada)
+Predicados e quantificadores:
+
+∀ (para todo)
+
+∃ (existe)
+
+Tradução de frases da linguagem natural para lógica
+
+Negação de proposições com quantificadores
+
+📌 3. Conjuntos
+Definição de conjunto, subconjuntos, conjunto das partes
+
+Operações: união, interseção, diferença, complemento
+
+Produto cartesiano
+
+Conjuntos finitos e infinitos
+
+Diagramas de Venn
+
+📌 4. Funções e Relações
+Definição de função: domínio, contradomínio, imagem
+
+Injetora, sobrejetora, bijetora
+
+Composição de funções
+
+Relações: reflexiva, simétrica, antissimétrica, transitiva
+
+Fechos: reflexivo, transitivo
+
+Relações de equivalência e classes de equivalência
+
+📌 5. Princípios de Contagem
+Princípio aditivo e multiplicativo
+
+Permutações e combinações
+
+Arranjos com e sem repetição
+
+Fatorial, coeficiente binomial ("n escolhe k")
+
+Princípio da casa dos pombos (pigeonhole principle)
+
+📌 6. Indução e Recursão
+Indução matemática (simples e forte)
+
+Definições recursivas (como fatorial, Fibonacci)
+
+Provas com indução
+
+📌 7. Teoria dos Números (básico)
+Divisibilidade
+
+Números primos
+
+Máximo divisor comum (MDC) e mínimo múltiplo comum (MMC)
+
+Algoritmo de Euclides
+
+Congruência módulo n
+
+Aritmética modular (usada em criptografia e hashing)
+
+computacional
+
+🎯 Objetivo da disciplina
+Desenvolver a capacidade de pensar logicamente e abstratamente, e dar ao aluno as ferramentas matemáticas para:
+
+Formalizar algoritmos
+
+Provar propriedades
+
+Compreender linguagens formais, autômatos, criptografia, redes e mais.
+
+📚 Exemplos de livros usados:
+"Matemática Discreta e suas Aplicações" – Kenneth H. Rosen (mais completo e usado no mundo todo)
+
+"Fundamentos Matemáticos para a Ciência da Computação" – Judith Gersting
+
+"Lógica Matemática para Ciência da Computação" – Ben-Ari (foco em lógica)
+
+
