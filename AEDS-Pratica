@@ -1,0 +1,43 @@
+Professor:Paulo Alexandre Bressan
+
+🧠 Resumo Geral de Conteúdo – AEDS Prática
+📌 1. Revisão de Lógica e Programação
+Sintaxe da linguagem escolhida (ex: C/C++)
+
+Variáveis, operadores, estruturas de controle (if, while, for)
+
+Funções (definição, parâmetros, recursão simples)
+
+Entrada e saída de dados
+
+🧮 2. Estruturas de Dados Básicas
+🔹 Arrays (Vetores e Matrizes)
+Declaração, inicialização e manipulação
+
+Percursos, buscas e ordenações simples (Bubble, Selection)
+
+🔹 Strings
+Operações com strings (tamanho, concatenação, comparação)
+
+Conversão entre string e número
+
+🧵 3. Ponteiros e Alocação Dinâmica (em C/C++)
+Endereçamento de memória
+
+Alocação com malloc, free
+
+Vetores dinâmicos
+
+Ponteiros para structs
+
+📦 4. Structs e Tipos Abstratos
+Definição e uso de struct
+
+Agrupamento de dados (ex: struct Aluno com nome, RA, notas)
+
+Manipulação de listas com structs
+
+🎯 Objetivo da disciplina
+Ensinar o aluno a pensar em termos de estrutura de dados, resolver problemas computacionais usando algoritmos eficientes e implementar essas soluções com código correto, legível e modular.
+
+Se você quiser, posso montar um roteiro de estudos com exercícios práticos ou indicar livros e PDFs gratuitos que acompanham bem a matéria. Quer?
