@@ -1,0 +1,116 @@
+Professor:Thiago José Arruda
+
+🧠 Resumo Completo – Geometria Analítica (DCE555)
+A Geometria Analítica une geometria e álgebra, permitindo representar objetos geométricos (pontos, retas, planos, curvas) através de equações e resolver problemas espaciais com cálculo.
+
+📌 1. Sistema de Coordenadas
+Coordenadas cartesianas no plano (ℝ²) e no espaço (ℝ³)
+
+Distância entre dois pontos
+
+Ponto médio
+
+Simetrias (em relação aos eixos e origem)
+
+📌 2. Vetores
+Definição de vetor como segmento orientado
+
+Operações com vetores:
+
+Soma, subtração, multiplicação por escalar
+
+Módulo (norma), vetor unitário
+
+Produto escalar (dot product)
+
+Ângulo entre vetores
+
+Ortogonalidade
+
+Produto vetorial (em ℝ³)
+
+Vetor perpendicular, área do paralelogramo
+
+Produto misto (volume do paralelepípedo)
+
+📌 3. Retas no Plano (ℝ²)
+Equações da reta:
+
+Forma geral: Ax + By + C = 0
+
+Forma reduzida: y = mx + b
+
+Forma paramétrica e vetorial
+
+Ponto pertence à reta
+
+Paralelismo e perpendicularidade
+
+Ângulo entre retas
+
+Distância ponto-reta
+
+📌 4. Retas e Planos no Espaço (ℝ³)
+Vetor diretor da reta
+
+Equações paramétricas e vetoriais da reta
+
+Equação do plano: ax + by + cz + d = 0
+
+Vetor normal ao plano
+
+Interseção entre reta e plano
+
+Ângulos entre retas, entre planos e entre reta e plano
+
+Distância ponto-plano, ponto-reta
+
+📌 5. Cônicas (no plano ℝ²)
+Equação geral de 2º grau: Ax² + Bxy + Cy² + Dx + Ey + F = 0
+
+Identificação da cônica (parábola, elipse, hipérbole) usando o discriminante:
+
+Δ = B² - 4AC
+
+Estudo individual de:
+
+Circunferência: (x - a)² + (y - b)² = r²
+
+Parábola: y² = 4ax ou x² = 4ay
+
+Elipse: x²/a² + y²/b² = 1
+
+Hipérbole: x²/a² - y²/b² = 1
+
+Centro, focos, excentricidade, diretriz
+
+📌 6. Mudança de Base e Sistemas Coordenados
+Mudança de origem
+
+Rotação do sistema de eixos (sem aprofundar muito)
+
+Aplicações geométricas
+
+📌 7. Aplicações Práticas (opcional ou projetos)
+Geometria aplicada à computação gráfica
+
+Modelagem de trajetórias e colisões
+
+Visualização 3D
+
+🎯 Objetivos da disciplina
+Desenvolver capacidade de visualização geométrica com suporte algébrico
+
+Resolver problemas espaciais com vetores, equações e distância
+
+Preparar o aluno para disciplinas como:
+
+Álgebra Linear
+
+Física Computacional
+
+Computação Gráfica
+
+Robótica
+
+Visão Computacional
