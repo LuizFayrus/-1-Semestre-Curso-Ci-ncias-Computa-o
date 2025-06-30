@@ -1,0 +1,41 @@
+Professor:Luiz Eduardo da Silva
+🧠 Resumo Geral de Conteúdo – AEDS Teórica
+📌 1. Fundamentos de Algoritmos
+O que é um algoritmo (conceito formal)
+
+Representação (pseudocódigo, fluxogramas)
+
+Noções de problemas computáveis e não computáveis
+
+Modelos computacionais: máquina de Turing (muito superficial ou introdutório, se abordado)
+
+⏱️ 2. Análise de Algoritmos
+Tempo de execução e eficiência
+
+Notações:
+
+O(n) (complexidade assintótica superior)
+
+Ω(n) (inferior)
+
+Θ(n) (exata)
+
+Melhor caso, pior caso e caso médio
+
+Análise de algoritmos recursivos com método de substituição e árvore de recursão
+
+🧮 3. Técnicas de Projeto de Algoritmos
+Força bruta (brute force)
+
+Divisão e conquista (ex: mergesort, quicksort)
+
+Gulosa (greedy) (ex: problema da mochila fracionária)
+
+Programação dinâmica (ex: Fibonacci, mochila 0/1)
+
+Volta atrás (backtracking) (ex: sudoku, 8 rainhas)
+
+Busca em espaço de estados
+
+🎯 Objetivo da disciplina
+Ensinar a analisar e projetar algoritmos eficientes, compreender profundamente as estruturas de dados e seu impacto na performance, além de formar base para matérias futuras como Compiladores, Inteligência Artificial, Banco de Dados e Análise de Complexidade.
