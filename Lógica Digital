@@ -1,0 +1,130 @@
+Professor:Eliseu Cesar Miguel
+
+🧠 Resumo Completo – Lógica Digital
+📌 1. Sistemas de Numeração
+Decimal (base 10), Binário (base 2), Octal (base 8), Hexadecimal (base 16)
+
+Conversão entre bases
+
+Representação de números binários com sinal:
+
+Sinal-magnitude
+
+Complemento de 1
+
+Complemento de 2 (mais usado em computadores)
+
+Operações aritméticas básicas em binário (soma, subtração, multiplicação simples)
+
+📌 2. Álgebra Booleana
+Variáveis booleanas: 0 e 1
+
+Operações: AND (∧), OR (∨), NOT (¬)
+
+Propriedades: comutativa, associativa, distributiva
+
+Leis de De Morgan
+
+Identidades úteis para simplificação
+
+📌 3. Funções Lógicas e Tabelas-Verdade
+Representação de funções booleanas:
+
+Tabela-verdade
+
+Expressão algébrica (forma normal)
+
+Mapa de Karnaugh (K-Map)
+
+Minimização de expressões lógicas
+
+Mapas de Karnaugh (2, 3, 4 e até 5 variáveis)
+
+Simplificação algébrica
+
+Formas Canônicas:
+
+Soma de produtos (SOP)
+
+Produto de somas (POS)
+
+📌 4. Portas Lógicas
+Portas básicas: AND, OR, NOT
+
+Portas derivadas: NAND, NOR, XOR, XNOR
+
+Implementação de circuitos com portas lógicas
+
+Portas universais (NAND e NOR)
+
+📌 5. Circuitos Combinacionais
+Circuitos sem memória (saída depende apenas das entradas)
+
+Exemplos clássicos:
+
+Somador completo (full adder)
+
+Comparador
+
+Multiplexador (MUX)
+
+Demultiplexador (DEMUX)
+
+Codificador
+
+Decodificador
+
+Projeto de circuitos combinacionais
+
+📌 6. Circuitos Sequenciais
+Circuitos com memória (estado atual depende de entradas + histórico)
+
+Flip-flops:
+
+SR, D, T, JK (com e sem clock)
+
+Registradores:
+
+De deslocamento (shift registers)
+
+De armazenamento
+
+Contadores:
+
+Contador síncrono e assíncrono
+
+Contadores binários
+
+Diagrama de estados (máquinas de estados finitos)
+
+📌 7. Memórias e Lógica Programável (se incluído)
+Memória ROM, RAM (conceito básico)
+
+Tabela verdade implementada com ROM
+
+PAL, PLA, FPGA (visão geral – depende da instituição)
+
+🎯 Objetivo da disciplina
+Capacitar o aluno a entender e projetar circuitos digitais
+
+Preparar para áreas como:
+
+Arquitetura de Computadores
+
+Sistemas Embarcados
+
+Hardware Digital
+
+Compiladores (nível de máquina)
+
+Robótica e Eletrônica Digital
+
+📚 Livros mais usados:
+"Sistemas Digitais – Princípios e Aplicações" – Ronald J. Tocci
+
+"Fundamentos de Sistemas Digitais" – Floyd
+
+"Lógica Digital" – Mano & Ciletti
+
+"Digital Design" – M. Morris Mano (em inglês, clássico mundial)
+
