@@ -1,0 +1,111 @@
+Professor:Iago Augusto de Carvalho
+🧠 Resumo Completo – Introdução à Ciência da Computação (DCE524)
+Essa disciplina serve como porta de entrada para o mundo da computação. Ela combina teoria, história, lógica, algoritmos e, às vezes, iniciação à programação e ao uso de ferramentas.
+
+📌 1. História da Computação
+Evolução dos computadores:
+
+Ábaco, Pascalina, Máquina de Turing, ENIAC
+
+Gerações da computação (tubos, transistores, circuitos integrados, etc.)
+
+Principais figuras: Alan Turing, Ada Lovelace, Von Neumann
+
+📌 2. Componentes de um Computador
+Hardware:
+
+CPU, memória RAM, HD/SSD, barramentos, periféricos
+
+Software:
+
+Sistema Operacional
+
+Aplicativos
+
+Firmware
+
+Arquitetura de von Neumann (memória, controle, ULA, entrada/saída)
+
+📌 3. Representação da Informação
+Sistema binário e outras bases (decimal, hexadecimal)
+
+Representação de:
+
+Números inteiros e reais
+
+Caracteres (ASCII, Unicode)
+
+Imagens e sons (digitalização, compressão básica)
+
+📌 4. Algoritmos e Lógica
+O que é um algoritmo (definição formal)
+
+Pseudocódigo e fluxogramas
+
+Estruturas de controle:
+
+Sequência, decisão (if), repetição (while, for)
+
+Exemplos simples de algoritmos: soma, fatorial, ordenação básica
+
+📌 5. Noções de Programação (básico)
+(Se for parte do conteúdo prático da disciplina)
+
+Primeiros programas (em linguagens como Python, C, Java ou Portugol)
+
+Variáveis, operadores, entrada e saída
+
+Condições e laços
+
+Funções simples
+
+📌 6. Sistemas Operacionais e Softwares
+O que é um SO (Windows, Linux, macOS)
+
+Funções básicas: gerenciar processos, memória, arquivos
+
+Tipos de software: livre, proprietário, código aberto
+
+📌 7. Introdução à Internet e Redes
+O que é a internet: história e funcionamento
+
+Conceitos de IP, DNS, HTTP, servidores
+
+Segurança básica (criptografia, senhas, backups, antivírus)
+
+📌 8. Ética e Profissão em Computação
+Ética no uso da tecnologia
+
+Códigos de conduta (ex: ACM, IEEE)
+
+Impacto social da computação
+
+Carreiras em computação: desenvolvimento, dados, redes, IA, segurança, etc.
+
+📌 9. Áreas da Computação
+Breve visão das grandes áreas:
+
+Algoritmos e Estruturas de Dados
+
+Inteligência Artificial
+
+Engenharia de Software
+
+Redes e Sistemas Distribuídos
+
+Banco de Dados
+
+Robótica
+
+Computação Gráfica
+
+Teoria da Computação
+
+🎯 Objetivo da disciplina
+Introduzir os conceitos fundamentais da computação
+
+Desenvolver pensamento computacional e lógico
+
+Familiarizar o aluno com termos técnicos e a estrutura da área
+
+Preparar para disciplinas futuras mais técnicas e profundas
